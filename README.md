@@ -1,1 +1,2 @@
 # Project2
+I created a New Repository which is Crowdfunding_ETL. I cloned the repository to my computer. I also renamed ETL_Mini_Project_starter_code with the my first name initial and last name. Then I added the jupyter notebook and the Resources folder containing the crowdfunding.xslx and the contacts.xlsx files to my repository. I pushed my changes to Github. Then, I combined all the subsections back into the ETL_Mini_Project notebook. After doing all of this, I followed the instructions for Project 2. 
